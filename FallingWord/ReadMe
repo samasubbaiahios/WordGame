@@ -1,0 +1,18 @@
+FALLING WORDS Idea
+
+About:
+The below project will run with out any 3rd party frameworks or dependencies, open the Xcode project and run it. User can see a Home or landing screen where user can play the Language selection Quiz. The player will see a word in "English" on the centre of the screen. While this word is displayed, a word in "Spanish" will fall from top to down on the screen. Player have to choose if the falling word is correct translation or wrong by choosing "Check/ Tick" and "Cross" mark buttons. Player will get 25 questions at a single session, if player answered 25 questions he/she will awarded as Winner, If player couldn't score out-of he/she will get "Game Over", If player couldn't get at-least 1 he/she will prompted as "You've lost".
+
+
+How Achieved:
+When player clicked on "Let's Start" button, we are fetching Words from Bundled son file, using Codable protocol to Decode the son content to Word Data Model. This has been transferred to GameVC and its ViewModel for random Word display in the Screen.
+For the GameVC we have GameWord as data model, this helps for user selection status. All the game logic placed in the GameVM class, here we are equating the two labels objects, post user selection he/she will see another word like this he/she will get 25 words.
+
+Having couple of Helpers classes like Constants, Gradient colours & Hex code colours display.
+
+Handled all UI components in Storyboards and Used Size classes for different devices and orientations.
+
+Added few basic Test cases.
+
+Note:
+Tried the View background colours as Gradient and added few images from Internet for better UI/UX. Due to time constraint couldn't add much Test cases.

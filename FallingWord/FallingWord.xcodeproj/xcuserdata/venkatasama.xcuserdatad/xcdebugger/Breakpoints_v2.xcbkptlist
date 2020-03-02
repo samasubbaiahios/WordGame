@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FallingWord/Word.swift"
+            timestampString = "590237409.1996059"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Word"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FallingWord.Word.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;FallingWord.Word.CodingKeys&gt;"
+                  moduleName = "FallingWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venkatasama/Documents/SomeDocx%20and%20Personal/Samples/FallingWord/FallingWord/Word.swift"
+                  timestampString = "590212758.822242"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FallingWord.Word.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "FallingWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venkatasama/Documents/SomeDocx%20and%20Personal/Samples/FallingWord/FallingWord/Word.swift"
+                  timestampString = "590212758.82765"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FallingWord/StartVC.swift"
+            timestampString = "590237409.199695"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "StartVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FallingWord/GameProcessor.swift"
+            timestampString = "590237409.199955"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "translationWord()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FallingWord.GameProcessor.(translationWord in _B31746B428D6D309868282D42B08D811)() -&gt; Swift.String"
+                  moduleName = "FallingWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venkatasama/Documents/SomeDocx%20and%20Personal/Samples/FallingWord/FallingWord/GameProcessor.swift"
+                  timestampString = "590237136.712922"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "794">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FallingWord.GameProcessor.(translationWord in _B31746B428D6D309868282D42B08D811)() -&gt; Swift.String"
+                  moduleName = "FallingWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venkatasama/Documents/SomeDocx%20and%20Personal/Samples/FallingWord/FallingWord/GameProcessor.swift"
+                  timestampString = "590237136.7146339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "837">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FallingWord/GameProcessor.swift"
+            timestampString = "590237409.1999969"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "decrementScore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
